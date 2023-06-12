@@ -10,7 +10,7 @@ app.use(express.urlencoded({ extended: true }))
 app.use('/api/v1/users', userRouter)
 
 app.get('/', async (req: Request, res: Response) => {
-  res.send('User created successfully')
+  res.send('server is running')
 })
 
 export default app
