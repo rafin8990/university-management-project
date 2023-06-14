@@ -1,15 +1,15 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
-    },
-    "auditLog": "G:\\New File\\TypeScript\\university-management-project\\logs\\winstone\\Error\\.84bef87ddaabf7b4eefbf89085f22e5f6c588b0d-audit.json",
-    "files": [
-        {
-            "date": 1686614918754,
-            "name": "G:\\New File\\TypeScript\\university-management-project\\logs\\winstone\\Error\\phu-2023-06-13-06-error.log",
-            "hash": "6b56944da7bfcf095e2bd74b70146f576ee39fffd0b8c187eec59cbb0eb9ecbf"
-        }
-    ],
-    "hashType": "sha256"
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "G:\\New File\\TypeScript\\university-management-project\\logs\\winstone\\Error\\.84bef87ddaabf7b4eefbf89085f22e5f6c588b0d-audit.json",
+  "files": [
+    {
+      "date": 1686614918754,
+      "name": "G:\\New File\\TypeScript\\university-management-project\\logs\\winstone\\Error\\phu-2023-06-13-06-error.log",
+      "hash": "6b56944da7bfcf095e2bd74b70146f576ee39fffd0b8c187eec59cbb0eb9ecbf"
+    }
+  ],
+  "hashType": "sha256"
 }

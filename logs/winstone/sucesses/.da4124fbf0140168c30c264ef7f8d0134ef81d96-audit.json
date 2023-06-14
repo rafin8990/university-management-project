@@ -1,30 +1,30 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "G:\\New File\\TypeScript\\university-management-project\\logs\\winstone\\sucesses\\.da4124fbf0140168c30c264ef7f8d0134ef81d96-audit.json",
+  "files": [
+    {
+      "date": 1686598380500,
+      "name": "G:\\New File\\TypeScript\\university-management-project\\logs\\winstone\\sucesses\\ph-2023-06-13-01-sucess.log",
+      "hash": "e45d48040a12a2d26557f5e3b17be99d80e7da553cd88396761b157cb9b59e88"
     },
-    "auditLog": "G:\\New File\\TypeScript\\university-management-project\\logs\\winstone\\sucesses\\.da4124fbf0140168c30c264ef7f8d0134ef81d96-audit.json",
-    "files": [
-        {
-            "date": 1686598380500,
-            "name": "G:\\New File\\TypeScript\\university-management-project\\logs\\winstone\\sucesses\\ph-2023-06-13-01-sucess.log",
-            "hash": "e45d48040a12a2d26557f5e3b17be99d80e7da553cd88396761b157cb9b59e88"
-        },
-        {
-            "date": 1686614800110,
-            "name": "G:\\New File\\TypeScript\\university-management-project\\logs\\winstone\\sucesses\\ph-2023-06-13-06-sucess.log",
-            "hash": "fd506759e730f5c50a320590de2ba90552e54d8b5fd5ea9783e6b67cedd62e67"
-        },
-        {
-            "date": 1686618945374,
-            "name": "G:\\New File\\TypeScript\\university-management-project\\logs\\winstone\\sucesses\\ph-2023-06-13-07-sucess.log",
-            "hash": "43cd02ceca6d59129936522f55610a13b8964dd39e718e6a0a2dc4c90f14bd4e"
-        },
-        {
-            "date": 1686625327423,
-            "name": "G:\\New File\\TypeScript\\university-management-project\\logs\\winstone\\sucesses\\ph-2023-06-13-09-sucess.log",
-            "hash": "7cf05597730921d548c86c6cb8c1d4fa581fc62f2f1a71f4b9e4da435fc308ab"
-        }
-    ],
-    "hashType": "sha256"
+    {
+      "date": 1686614800110,
+      "name": "G:\\New File\\TypeScript\\university-management-project\\logs\\winstone\\sucesses\\ph-2023-06-13-06-sucess.log",
+      "hash": "fd506759e730f5c50a320590de2ba90552e54d8b5fd5ea9783e6b67cedd62e67"
+    },
+    {
+      "date": 1686618945374,
+      "name": "G:\\New File\\TypeScript\\university-management-project\\logs\\winstone\\sucesses\\ph-2023-06-13-07-sucess.log",
+      "hash": "43cd02ceca6d59129936522f55610a13b8964dd39e718e6a0a2dc4c90f14bd4e"
+    },
+    {
+      "date": 1686625327423,
+      "name": "G:\\New File\\TypeScript\\university-management-project\\logs\\winstone\\sucesses\\ph-2023-06-13-09-sucess.log",
+      "hash": "7cf05597730921d548c86c6cb8c1d4fa581fc62f2f1a71f4b9e4da435fc308ab"
+    }
+  ],
+  "hashType": "sha256"
 }
