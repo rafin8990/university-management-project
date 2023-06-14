@@ -1,0 +1,20 @@
+{
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "G:\\New File\\TypeScript\\university-management-project\\logs\\winstone\\.3c70282d88913eba8a5ce912cccc929a2c0b7b6a-audit.json",
+  "files": [
+    {
+      "date": 1686598380503,
+      "name": "G:\\New File\\TypeScript\\university-management-project\\logs\\winstone\\phu-2023-06-13-01-error.log",
+      "hash": "a5020b0d22a4366663757a4a2ff59c956c6c32724c83a1f62d8b44908ddf45a3"
+    },
+    {
+      "date": 1686614800113,
+      "name": "G:\\New File\\TypeScript\\university-management-project\\logs\\winstone\\phu-2023-06-13-06-error.log",
+      "hash": "887001c27924d7ccad5ec783677e07217b63d21cf79e8ecd7fec903c0b38e83f"
+    }
+  ],
+  "hashType": "sha256"
+}
